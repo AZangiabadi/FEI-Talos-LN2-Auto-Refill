@@ -20,6 +20,8 @@ You can also run the file directly through `uv`:
 ```powershell
 uv run python main.py
 ```
+<img width="440" height="313" alt="image" src="https://github.com/user-attachments/assets/308e8369-2127-499d-9385-737ad597a105" />
+
 
 ## Install uv
 
