@@ -4,7 +4,7 @@ This program is a desktop monitor for the FEI Talos TEM LN2 system. It reads the
 
 This project can be run with `uv` as a small desktop app.
 
-Before running the app, set the `LN2_WEBSWITCH_BASE_URL` environment variable on your machine to the local WebSwitch base URL, for example `http://<your-webswitch-ip>`. This value is intentionally not stored in the repository.
+Before running the app, set the `LN2_WEBSWITCH_BASE_URL` environment variable on your machine to the local relay that controls the solenoid LN2 valve, for example `http://<your-webswitch-ip>`. This value is intentionally not stored in the repository.
 
 ## Run with uv
 
