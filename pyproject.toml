@@ -1,0 +1,14 @@
+[project]
+name = "ln2-reader-filler"
+version = "0.1.0"
+description = "Tkinter app for monitoring LN2 level and triggering refills"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "pillow>=12.2.0",
+    "pystray>=0.19.5",
+    "requests>=2.33.1",
+]
+
+[project.scripts]
+ln2-reader-filler = "main:main"
