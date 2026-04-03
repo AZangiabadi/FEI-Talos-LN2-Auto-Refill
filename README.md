@@ -6,6 +6,8 @@ This project can be run with `uv` as a small desktop app.
 
 Before running the app, set the `LN2_WEBSWITCH_BASE_URL` environment variable on your machine to the local relay that controls the solenoid LN2 valve, for example `http://<your-webswitch-ip>`. This value is intentionally not stored in the repository.
 
+<img width="440" height="313" alt="image" src="https://github.com/user-attachments/assets/308e8369-2127-499d-9385-737ad597a105" />
+
 ## Run with uv
 
 If `uv` is installed:
@@ -20,7 +22,6 @@ You can also run the file directly through `uv`:
 ```powershell
 uv run python main.py
 ```
-<img width="440" height="313" alt="image" src="https://github.com/user-attachments/assets/308e8369-2127-499d-9385-737ad597a105" />
 
 
 ## Install uv
