@@ -1,6 +1,6 @@
 # LN2 Reader Filler
 
-This program is a desktop monitor for the FEI Talos LN2 system. It reads the current liquid nitrogen level from the microscope, watches for low-level conditions, and can automatically or manually trigger a refill through the WebSwitch relay. It also includes a cryo-cycle mode that suppresses refills when monitoring only is desired.
+This program is a desktop monitor for the FEI Talos TEM LN2 system. It reads the current liquid nitrogen level from the microscope, watches for low-level conditions, and can automatically or manually trigger a refill through the WebSwitch relay. It also includes a cryo-cycle mode that suppresses refills when monitoring only is desired.
 
 This project can be run with `uv` as a small desktop app.
 
